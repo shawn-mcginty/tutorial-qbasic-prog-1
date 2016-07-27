@@ -34,7 +34,7 @@ So you don't have to install/setup the qbasic tool on your local computer.  Also
 * Open https://repl.it/languages/qbasic
 * Name the session, whatever makes it easy for you to keep track of probably something like "001-Hello World"
 * In the editor do the following
-```
+```PureBasic
 PRINT "Hello World!"
 ```
 * Click the run ▶ button
@@ -42,14 +42,14 @@ PRINT "Hello World!"
 
 ##### 1.1 Semicolons and commas
 Try the following on the next line in the editor:
-```
+```PureBasic
 PRINT "Hello"; " "; "again!"
 ```
 
 >The semicolon let's print run on multiple inputs.
 
 Try this:
-```
+```PureBasic
 PRINT 1,2,3,4
 ```
 Commas will put a tab between the arguments, instead of printing them right next to eachother.  Also note that we're using numbers instead of strings here.. `PRINT` doesn't care.
