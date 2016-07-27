@@ -34,7 +34,7 @@ So you don't have to install/setup the qbasic tool on your local computer.  Also
 * Open https://repl.it/languages/qbasic
 * Name the session, whatever makes it easy for you to keep track of probably something like "001-Hello World"
 * In the editor do the following
-```PureBasic
+```purebasic
 PRINT "Hello World!"
 ```
 * Click the run ▶ button
