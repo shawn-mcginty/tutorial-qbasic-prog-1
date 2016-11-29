@@ -31,4 +31,4 @@ PRINT UCASE$(test)
 This is all stuff you know already!  Except the new keyword `INPUT` and we are using a **build in** function called `UCASE$` this takes in a string and will output the uppercase version of that string.  Go ahead and ▶ Run.  Type some input into your program and hit enter.
 
 ## Finished
-Play around with variables if you want.  Once your'e done, click the "share" button and send me a link to your repl.it session.
+Play around with this as much as you want.  Once your'e done, click the "share" button and send me a link to your repl.it session.
